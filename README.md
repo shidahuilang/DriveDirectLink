@@ -9,7 +9,7 @@ https://网站地址/?id=文件ID
 例如
 google drive 分享链接
 ```
-https://drive.google.com/uc?export=download&id=文件ID&export=download
+https://drive.google.com/uc?export=download&id=文件ID
 ```
 ```
 https://drive.google.com/open?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
