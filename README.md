@@ -4,19 +4,17 @@ DriveDirectLink 网盘直链下载，支持谷歌，蓝奏云,360网盘
 ### 使用方法
 格式如下:
 ```
-https://网站地址/?id=文件ID
+https://www.lefu.men/gdzl?id=文件ID
 ```
 例如
 google drive 分享链接
 ```
-https://www.lefu.men/gdzl?id=文件ID
-```
-```
 https://drive.google.com/open?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
 ```
+
 直链地址
 ```
-https://网站地址/?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
+https://www.lefu.men/gdzl?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
 ```
 ## 蓝奏云
 ### 获取直链地址
