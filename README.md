@@ -23,12 +23,12 @@ https://网站地址/?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
 此方法会获取并展示直链地址，而不会直接下载
 格式如下:
 ```
-https://网站地址/?lz=文件ID
+https://www.lefu.men/gdzl?lz=文件ID
 ```
 例如  
 蓝奏云分享链接
 ```
-https://www.lanzous.com/ibvifch
+https://www.lefu.men/gdzl?lz=/ibvifch
 ```
 直链获取地址
 ```
@@ -54,7 +54,7 @@ https://网站地址/?lzd=ibvifch
 ### 使用方法
 格式如下:
 ```
-https://网站地址/?360=文件ID
+https://www.lefu.men/gdzl?360=文件ID
 ```
 例如
 360 分享链接
@@ -63,7 +63,7 @@ https://yunpan.360.cn/surl_yYgjWMz8GhU
 ```
 直链地址
 ```
-https://网站地址/?360=surl_yYgjWMz8GhU
+https://www.lefu.men/gdzl?360=surl_yYgjWMz8GhU
 ```
 ---
 ## 4月26日更新说明
