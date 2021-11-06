@@ -1,6 +1,5 @@
 # DriveDirectLink
 DriveDirectLink 网盘直链下载，支持谷歌，蓝奏云,360网盘  
-在线使用预览：https://214214.xyz/tools/dlink/
 ## 谷歌网盘直链下载(使用cf-workers代理)
 ### 使用方法
 格式如下:
@@ -9,6 +8,9 @@ https://网站地址/?id=文件ID
 ```
 例如
 google drive 分享链接
+```
+https://drive.google.com/uc?export=download&id=文件ID&export=download
+```
 ```
 https://drive.google.com/open?id=1CIFH3PiEuiUJ-_6YWBfSLxi2DR9ncVmO
 ```
